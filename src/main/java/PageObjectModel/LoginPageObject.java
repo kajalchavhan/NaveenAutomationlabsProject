@@ -13,12 +13,21 @@ public class LoginPageObject {
 	private By Password=By.xpath("//input[@name='password']");
 	private By Submit=By.xpath("//input[@type='submit']");
 	private By Warning=By.xpath("//div[@class='alert alert-danger alert-dismissible']");
-	
-	
-	
+	private By MyAccountText=By.xpath("//h2[contains(text(),'My Account')]");
+	private By LogOut=By.xpath("(//a[@href='https://naveenautomationlabs.com/opencart/index.php?route=account/logout'])[1]");
+	private By AccountLogoutText=By.xpath("//h2[contains(text(),'My Account')]");
 	public LoginPageObject(WebDriver driver2) {
 		this.driver=driver2;
 		// TODO Auto-generated constructor stub
+	}
+	public WebElement getAccountLogoutText() {
+		return driver.findElement(AccountLogoutText);
+	}
+	public WebElement ClickLogOut() {
+		return driver.findElement(LogOut);
+	}
+	public WebElement getMyAccountText() {
+		return driver.findElement(MyAccountText);
 	}
 	public WebElement clickOnMyAccount() {
 		return driver.findElement(MyAccount);

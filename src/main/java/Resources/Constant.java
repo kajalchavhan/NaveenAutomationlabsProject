@@ -28,6 +28,8 @@ public class Constant {
 	public static String EmptyPassText="Password must be between 4 and 20 characters!";
 	
 	
+	public static String AccountLogoutText="Account Logout";
+	public static String MyAccountText="My Account";
 	
 	
 	

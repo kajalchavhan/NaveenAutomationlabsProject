@@ -61,7 +61,7 @@ public class baseClass {
 		}
 		@AfterMethod
 		public void quitBrowser() throws IOException {
-		//driver.quit();
+		driver.quit();
 		}
 		 @BeforeTest
 		 public void ExtentReport() {

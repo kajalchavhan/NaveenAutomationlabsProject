@@ -2,106 +2,106 @@
 <testng-results ignored="6" total="13" passed="7" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-05-15T14:45:35 IST" name="Suite" finished-at="2023-05-15T14:47:00 IST" duration-ms="85407">
+  <suite started-at="2023-05-17T15:56:21 IST" name="Suite" finished-at="2023-05-17T15:57:38 IST" duration-ms="76684">
     <groups>
     </groups>
-    <test started-at="2023-05-15T14:45:35 IST" name="Test" finished-at="2023-05-15T14:47:00 IST" duration-ms="85407">
-      <class name="TestCases.verifyProfuctPrice">
-        <test-method is-config="true" signature="LaunchBrowser()[pri:0, instance:TestCases.verifyProfuctPrice@72d1ad2e]" started-at="2023-05-15T14:46:30 IST" name="LaunchBrowser" finished-at="2023-05-15T14:46:38 IST" duration-ms="7880" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- LaunchBrowser -->
-        <test-method signature="ProductVerify()[pri:0, instance:TestCases.verifyProfuctPrice@72d1ad2e]" started-at="2023-05-15T14:46:38 IST" name="ProductVerify" finished-at="2023-05-15T14:46:43 IST" duration-ms="4813" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- ProductVerify -->
-        <test-method is-config="true" signature="quitBrowser()[pri:0, instance:TestCases.verifyProfuctPrice@72d1ad2e]" started-at="2023-05-15T14:46:43 IST" name="quitBrowser" finished-at="2023-05-15T14:46:43 IST" duration-ms="0" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- quitBrowser -->
-      </class> <!-- TestCases.verifyProfuctPrice -->
+    <test started-at="2023-05-17T15:56:21 IST" name="Test" finished-at="2023-05-17T15:57:38 IST" duration-ms="76684">
       <class name="TestCases.VerifyRegester">
-        <test-method is-config="true" signature="ExtentReport()[pri:0, instance:TestCases.VerifyRegester@515aebb0]" started-at="2023-05-15T14:45:35 IST" name="ExtentReport" finished-at="2023-05-15T14:45:35 IST" duration-ms="358" status="PASS">
+        <test-method is-config="true" signature="ExtentReport()[pri:0, instance:TestCases.VerifyRegester@515aebb0]" started-at="2023-05-17T15:56:21 IST" name="ExtentReport" finished-at="2023-05-17T15:56:22 IST" duration-ms="259" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ExtentReport -->
-        <test-method is-config="true" signature="LaunchBrowser()[pri:0, instance:TestCases.VerifyRegester@515aebb0]" started-at="2023-05-15T14:45:35 IST" name="LaunchBrowser" finished-at="2023-05-15T14:45:47 IST" duration-ms="11967" status="PASS">
+        <test-method is-config="true" signature="LaunchBrowser()[pri:0, instance:TestCases.VerifyRegester@515aebb0]" started-at="2023-05-17T15:56:22 IST" name="LaunchBrowser" finished-at="2023-05-17T15:56:32 IST" duration-ms="9974" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LaunchBrowser -->
-        <test-method signature="EmptyCredencialsRegester()[pri:0, instance:TestCases.VerifyRegester@515aebb0]" started-at="2023-05-15T14:45:47 IST" name="EmptyCredencialsRegester" finished-at="2023-05-15T14:45:49 IST" duration-ms="2000" status="PASS">
+        <test-method signature="EmptyCredencialsRegester()[pri:0, instance:TestCases.VerifyRegester@515aebb0]" started-at="2023-05-17T15:56:32 IST" name="EmptyCredencialsRegester" finished-at="2023-05-17T15:56:34 IST" duration-ms="1922" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- EmptyCredencialsRegester -->
-        <test-method is-config="true" signature="quitBrowser()[pri:0, instance:TestCases.VerifyRegester@515aebb0]" started-at="2023-05-15T14:45:49 IST" name="quitBrowser" finished-at="2023-05-15T14:45:49 IST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="quitBrowser()[pri:0, instance:TestCases.VerifyRegester@515aebb0]" started-at="2023-05-17T15:56:34 IST" name="quitBrowser" finished-at="2023-05-17T15:56:34 IST" duration-ms="260" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- quitBrowser -->
-        <test-method is-config="true" signature="LaunchBrowser()[pri:0, instance:TestCases.VerifyRegester@515aebb0]" started-at="2023-05-15T14:45:49 IST" name="LaunchBrowser" finished-at="2023-05-15T14:45:56 IST" duration-ms="6793" status="PASS">
+        <test-method is-config="true" signature="LaunchBrowser()[pri:0, instance:TestCases.VerifyRegester@515aebb0]" started-at="2023-05-17T15:56:34 IST" name="LaunchBrowser" finished-at="2023-05-17T15:56:41 IST" duration-ms="6713" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LaunchBrowser -->
-        <test-method signature="Regester()[pri:1, instance:TestCases.VerifyRegester@515aebb0]" started-at="2023-05-15T14:45:56 IST" name="Regester" finished-at="2023-05-15T14:45:59 IST" duration-ms="2712" status="PASS">
+        <test-method signature="Regester()[pri:1, instance:TestCases.VerifyRegester@515aebb0]" started-at="2023-05-17T15:56:41 IST" name="Regester" finished-at="2023-05-17T15:56:42 IST" duration-ms="1793" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Regester -->
-        <test-method is-config="true" signature="quitBrowser()[pri:0, instance:TestCases.VerifyRegester@515aebb0]" started-at="2023-05-15T14:45:59 IST" name="quitBrowser" finished-at="2023-05-15T14:45:59 IST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="quitBrowser()[pri:0, instance:TestCases.VerifyRegester@515aebb0]" started-at="2023-05-17T15:56:42 IST" name="quitBrowser" finished-at="2023-05-17T15:56:43 IST" duration-ms="207" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- quitBrowser -->
-        <test-method is-config="true" signature="LaunchBrowser()[pri:0, instance:TestCases.VerifyRegester@515aebb0]" started-at="2023-05-15T14:45:59 IST" name="LaunchBrowser" finished-at="2023-05-15T14:46:06 IST" duration-ms="6774" status="PASS">
+        <test-method is-config="true" signature="LaunchBrowser()[pri:0, instance:TestCases.VerifyRegester@515aebb0]" started-at="2023-05-17T15:56:43 IST" name="LaunchBrowser" finished-at="2023-05-17T15:56:49 IST" duration-ms="6851" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LaunchBrowser -->
-        <test-method signature="InvalidRegester()[pri:2, instance:TestCases.VerifyRegester@515aebb0]" started-at="2023-05-15T14:46:06 IST" name="InvalidRegester" finished-at="2023-05-15T14:46:08 IST" duration-ms="1828" status="PASS">
+        <test-method signature="InvalidRegester()[pri:2, instance:TestCases.VerifyRegester@515aebb0]" started-at="2023-05-17T15:56:49 IST" name="InvalidRegester" finished-at="2023-05-17T15:56:51 IST" duration-ms="1449" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- InvalidRegester -->
-        <test-method is-config="true" signature="quitBrowser()[pri:0, instance:TestCases.VerifyRegester@515aebb0]" started-at="2023-05-15T14:46:08 IST" name="quitBrowser" finished-at="2023-05-15T14:46:08 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="quitBrowser()[pri:0, instance:TestCases.VerifyRegester@515aebb0]" started-at="2023-05-17T15:56:51 IST" name="quitBrowser" finished-at="2023-05-17T15:56:51 IST" duration-ms="248" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- quitBrowser -->
-        <test-method is-config="true" signature="LaunchBrowser()[pri:0, instance:TestCases.VerifyRegester@515aebb0]" started-at="2023-05-15T14:46:08 IST" name="LaunchBrowser" finished-at="2023-05-15T14:46:17 IST" duration-ms="9545" status="PASS">
+        <test-method is-config="true" signature="LaunchBrowser()[pri:0, instance:TestCases.VerifyRegester@515aebb0]" started-at="2023-05-17T15:56:51 IST" name="LaunchBrowser" finished-at="2023-05-17T15:56:59 IST" duration-ms="7721" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LaunchBrowser -->
-        <test-method signature="ValidRegesteration()[pri:3, instance:TestCases.VerifyRegester@515aebb0]" started-at="2023-05-15T14:46:17 IST" name="ValidRegesteration" finished-at="2023-05-15T14:46:20 IST" duration-ms="3192" status="PASS">
+        <test-method signature="ValidRegesteration()[pri:3, instance:TestCases.VerifyRegester@515aebb0]" started-at="2023-05-17T15:56:59 IST" name="ValidRegesteration" finished-at="2023-05-17T15:57:02 IST" duration-ms="3125" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ValidRegesteration -->
-        <test-method is-config="true" signature="quitBrowser()[pri:0, instance:TestCases.VerifyRegester@515aebb0]" started-at="2023-05-15T14:46:20 IST" name="quitBrowser" finished-at="2023-05-15T14:46:20 IST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="quitBrowser()[pri:0, instance:TestCases.VerifyRegester@515aebb0]" started-at="2023-05-17T15:57:02 IST" name="quitBrowser" finished-at="2023-05-17T15:57:02 IST" duration-ms="212" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- quitBrowser -->
-        <test-method is-config="true" signature="endReport()[pri:0, instance:TestCases.VerifyRegester@515aebb0]" started-at="2023-05-15T14:47:00 IST" name="endReport" finished-at="2023-05-15T14:47:00 IST" duration-ms="701" status="PASS">
+        <test-method is-config="true" signature="endReport()[pri:0, instance:TestCases.VerifyRegester@515aebb0]" started-at="2023-05-17T15:57:38 IST" name="endReport" finished-at="2023-05-17T15:57:38 IST" duration-ms="332" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- endReport -->
       </class> <!-- TestCases.VerifyRegester -->
-      <class name="TestCases.VerifyTabs">
-        <test-method is-config="true" signature="LaunchBrowser()[pri:0, instance:TestCases.VerifyTabs@2d7275fc]" started-at="2023-05-15T14:46:43 IST" name="LaunchBrowser" finished-at="2023-05-15T14:46:51 IST" duration-ms="7699" status="PASS">
+      <class name="TestCases.verifyProfuctPrice">
+        <test-method is-config="true" signature="LaunchBrowser()[pri:0, instance:TestCases.verifyProfuctPrice@72d1ad2e]" started-at="2023-05-17T15:57:11 IST" name="LaunchBrowser" finished-at="2023-05-17T15:57:18 IST" duration-ms="6801" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LaunchBrowser -->
-        <test-method signature="tabVerification()[pri:0, instance:TestCases.VerifyTabs@2d7275fc]" started-at="2023-05-15T14:46:51 IST" name="tabVerification" finished-at="2023-05-15T14:47:00 IST" duration-ms="9174" status="PASS">
+        <test-method signature="ProductVerify()[pri:0, instance:TestCases.verifyProfuctPrice@72d1ad2e]" started-at="2023-05-17T15:57:18 IST" name="ProductVerify" finished-at="2023-05-17T15:57:22 IST" duration-ms="4407" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ProductVerify -->
+        <test-method is-config="true" signature="quitBrowser()[pri:0, instance:TestCases.verifyProfuctPrice@72d1ad2e]" started-at="2023-05-17T15:57:22 IST" name="quitBrowser" finished-at="2023-05-17T15:57:22 IST" duration-ms="247" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- TestCases.verifyProfuctPrice -->
+      <class name="TestCases.VerifyTabs">
+        <test-method is-config="true" signature="LaunchBrowser()[pri:0, instance:TestCases.VerifyTabs@2d7275fc]" started-at="2023-05-17T15:57:22 IST" name="LaunchBrowser" finished-at="2023-05-17T15:57:31 IST" duration-ms="8338" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchBrowser -->
+        <test-method signature="tabVerification()[pri:0, instance:TestCases.VerifyTabs@2d7275fc]" started-at="2023-05-17T15:57:31 IST" name="tabVerification" finished-at="2023-05-17T15:57:37 IST" duration-ms="6891" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tabVerification -->
-        <test-method is-config="true" signature="quitBrowser()[pri:0, instance:TestCases.VerifyTabs@2d7275fc]" started-at="2023-05-15T14:47:00 IST" name="quitBrowser" finished-at="2023-05-15T14:47:00 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="quitBrowser()[pri:0, instance:TestCases.VerifyTabs@2d7275fc]" started-at="2023-05-17T15:57:37 IST" name="quitBrowser" finished-at="2023-05-17T15:57:38 IST" duration-ms="266" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- quitBrowser -->
       </class> <!-- TestCases.VerifyTabs -->
       <class name="TestCases.VerifyLogin">
-        <test-method is-config="true" signature="LaunchBrowser()[pri:0, instance:TestCases.VerifyLogin@595b007d]" started-at="2023-05-15T14:46:20 IST" name="LaunchBrowser" finished-at="2023-05-15T14:46:28 IST" duration-ms="7576" status="PASS">
+        <test-method is-config="true" signature="LaunchBrowser()[pri:0, instance:TestCases.VerifyLogin@595b007d]" started-at="2023-05-17T15:57:02 IST" name="LaunchBrowser" finished-at="2023-05-17T15:57:09 IST" duration-ms="6563" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LaunchBrowser -->
-        <test-method signature="Validlogin()[pri:0, instance:TestCases.VerifyLogin@595b007d]" started-at="2023-05-15T14:46:28 IST" name="Validlogin" finished-at="2023-05-15T14:46:30 IST" duration-ms="2332" status="PASS">
+        <test-method signature="Validlogin()[pri:0, instance:TestCases.VerifyLogin@595b007d]" started-at="2023-05-17T15:57:09 IST" name="Validlogin" finished-at="2023-05-17T15:57:11 IST" duration-ms="1847" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Validlogin -->
-        <test-method is-config="true" signature="quitBrowser()[pri:0, instance:TestCases.VerifyLogin@595b007d]" started-at="2023-05-15T14:46:30 IST" name="quitBrowser" finished-at="2023-05-15T14:46:30 IST" duration-ms="2" status="PASS">
+        <test-method is-config="true" signature="quitBrowser()[pri:0, instance:TestCases.VerifyLogin@595b007d]" started-at="2023-05-17T15:57:11 IST" name="quitBrowser" finished-at="2023-05-17T15:57:11 IST" duration-ms="214" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- quitBrowser -->
